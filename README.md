@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NuelUzoma
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Front End Web Development 
-- 💞️ I’m looking to collaborate on Python and Figma
+- 🌱 I’m currently a Front End Web Developer 
+- 💞️ I’m looking to collaborate on Python, C# and Java
 - 📫 How to reach me emcool17@gmail.com, you can mail me
 
 <!---
