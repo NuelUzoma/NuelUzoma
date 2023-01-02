@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NuelUzoma
-- 👀 I’m interested in Software Engineering 
+- 👋 Hi, I’m **Madubuike Emmanuel Uzoma**
+- 👀 I’m studying **Software Engineering** 
 - 🌱 I’m currently a Front End Web Developer 
-- 💞️ I’m looking to collaborate on Python, C and Javascript
-- 📫 How to reach me emcool17@gmail.com, you can mail me
+- 💞️ I’m looking to collaborate on Python, C, Javascript, Cloud, DevOps and Open-Source.
+- 📫 How to reach me, <emcool17@gmail.com>, you can mail me
 
 <!---
 NuelUzoma/NuelUzoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
