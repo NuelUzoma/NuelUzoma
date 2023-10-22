@@ -1,7 +1,7 @@
-- 👋 Hi, I’m **Madubuike Emmanuel Uzoma**
-- 👀 I’m studying **Software Engineering**  
+- 👋 Hi, I’m **Emmanuel Uzoma Madubuike**
+- 👀 I’m a **Software Engineer**  
 - 💞️ I’m looking to collaborate on Python, C, Javascript, Cloud, DevOps and Open-Source.
-- 📫 How to reach me, <emcool17@gmail.com>, you can mail me
+- 📫 How to reach me, <emmanuelmadubuike.dev@gmail.com>, you can mail me
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NuelUzoma/langs)](https://githubtrends.io)
 
