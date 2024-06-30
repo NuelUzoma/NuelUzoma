@@ -1,7 +1,16 @@
-- 👋 Hi, I’m **Emmanuel Uzoma Madubuike**
-- 👀 I’m a **Software Engineer**  
-- 💞️ I’m looking to collaborate on Python, C, Javascript, Cloud, DevOps and Open-Source.
-- 📫 How to reach me, <emmanuelmadubuike.dev@gmail.com>, you can mail me
+- 👋 Hi, I’m **Emmanuel Uzoma Madubuike, a software engineer who specializes in Backend Development**
+
+- **Languages**: TypeScript, JavaScript, Python, C.
+
+- **Frameworks**: Node.js, Express.js, Nest.js
+
+- **Cloud and DevOps**: AWS, Docker, Jenkins, Git
+
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+
+- 📫 Send an email to <emmanuelmadubuike.dev@gmail.com>
+
+- Resume/CV: https://drive.google.com/file/d/1TlIcoT9U-0q7pcRHOr7GzAfujvjgNdK_/view?usp=sharing
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NuelUzoma/langs)](https://githubtrends.io)
 
