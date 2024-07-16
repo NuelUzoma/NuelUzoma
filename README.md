@@ -1,8 +1,8 @@
 - 👋 Hi, I’m **Emmanuel Uzoma Madubuike, a software engineer who specializes in Backend Development**
 
-- **Languages**: TypeScript, JavaScript, Python, C.
+- **Languages**: TypeScript, JavaScript, Python, C#, C.
 
-- **Frameworks**: Node.js, Express.js, Nest.js
+- **Frameworks**: Node.js, Express.js, Nest.js, .NET, ASP.NET Core.
 
 - **Cloud and DevOps**: AWS, Docker, Jenkins, Git
 
