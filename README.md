@@ -10,8 +10,6 @@
 
 - 📫 Send an email to <emmanuelmadubuike.dev@gmail.com>
 
-- Resume/CV: https://drive.google.com/file/d/1TlIcoT9U-0q7pcRHOr7GzAfujvjgNdK_/view?usp=sharing
-
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NuelUzoma/langs)](https://githubtrends.io)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NuelUzoma&theme=highcontrast)](https://git.io/streak-stats)
